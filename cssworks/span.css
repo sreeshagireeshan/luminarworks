@@ -1,0 +1,15 @@
+h{
+    color: tomato;
+}
+span{
+    color: violet;
+}
+button{
+    background-color: rgb(68, 11, 68);
+    color: white;
+    border-radius: 20px;
+}
+button:hover{
+    background-color: white;
+    color:rgb(26, 5, 26)
+}

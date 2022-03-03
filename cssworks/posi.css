@@ -1,0 +1,13 @@
+#b1{
+height: 100px;
+width: 300px;
+background-color: violet;
+position: relative;
+}
+#b2{
+    height: 100px;
+    width: 300px;
+    background-color: tomato;
+    position:absolute;
+    margin-left: 50%;
+}

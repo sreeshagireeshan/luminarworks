@@ -1,0 +1,109 @@
+#c{
+    text-decoration:none ;
+    color:white;
+    margin-right:4px ;
+    margin-left:36px;
+    width: 1px;
+    margin: top 0;
+}
+#s{
+    background-color:rgb(136, 92, 10);
+    color:white;
+    width:1075px;
+    position:sticky;
+    position: fixed;
+    text-align: right;
+    
+} 
+body{
+    background-color:rgb(236, 110, 131);
+    color:black;
+}
+img{
+    width:90%;
+    height:200px; 
+    display: flex;
+}
+.col1{
+    width:50%;
+    height:50px;
+}
+.row2{
+    margin-right:20px ;
+    float: right;
+}
+.col2{
+    text-align-last: right;
+
+}
+button{
+    background-color:yellowgreen;
+    color: white;
+    border-radius: 10px;
+    border-color:black ;
+}
+button:hover{
+    background-color:black;
+    color:yellow;
+}
+.row3{
+    text-align:center;
+    color:black;
+    margin: bottom 5px;  
+}
+.col-3{
+    height:150px;
+    width:150px;
+    margin-left:100px;
+    margin-top:-90px;  
+    margin-right:20px; 
+}
+.col-4{
+    height:150px;
+    width:150px;
+    margin-left:300px ;
+    margin-top:-90px ;
+    margin-bottom:10px ;
+}
+.col-5{
+    height:150px;
+    width: 150px;
+    margin-left:500px;
+    margin-top:-50px;
+    margin-bottom:10px ;
+}
+.col-6{
+    text-align-last: right;
+    height:150px;
+    width: 150px;
+    margin-left:700px;
+    margin-top:-50px;
+    margin-top:-10px;
+}
+.col-7{
+    height:150px;
+    width: 150px;
+    margin-left:900px;
+    margin-top:-10px;
+    margin-bottom:100px;
+}
+.row4{
+    background-color: black;
+    color: white;
+    footer:fixed;
+    margin:0px;
+    padding: 0px;
+    width:2000px;
+    height:90px;
+    text-align:center;
+}
+i{
+    color:white;
+    text-align: center;
+}
+
+
+
+
+
+

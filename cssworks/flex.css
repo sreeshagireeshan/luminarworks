@@ -1,0 +1,16 @@
+.row{
+    background-color: aquamarine;
+    height: 200px;
+    width: 500px;
+    display: flex;
+    justify-content: space-evenly;
+    justify-content: space-between;
+    justify-content: space-around;
+    align-items: center;
+}
+.col{
+    width: 100px;
+    height: 150px;
+    border: black solid 1px;
+    background-color: blueviolet;
+}

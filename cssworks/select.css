@@ -1,0 +1,22 @@
+h1{
+ color: darkred;
+ text-align: center;
+}
+/*tag selector*/
+#a1{
+    color: deeppink;
+    text-align:right;
+}
+.c1{
+    color: dodgerblue;
+    text-align:start;
+}
+#d1{
+    background-color: gray;
+}
+#d2{
+    background-color: greenyellow;
+    color: honeydew;
+}
+
+

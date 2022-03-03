@@ -1,0 +1,20 @@
+.col{
+    height: 100px;
+    width: 200px;
+    border: black 2px solid;
+}
+.col1{
+    background-color: aquamarine;
+}
+.col2{
+    margin-left: 253px;
+    margin-top: -103px;
+    background-color: blue;
+}
+.col3{
+     margin-left:523px  ;
+     margin-top: -103px;
+     background-color: blueviolet;
+}
+
+

@@ -1,0 +1,135 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: black;
+    color: white;
+}
+.col{
+    height: 170px;
+    width: 103px;
+    background-color: black 2px solid;
+}
+.col-1{
+    margin-left:251px  ;
+    margin-top: -26px;
+    background-color: violet;
+
+}
+.col-2{
+    margin-left:367px  ;
+    margin-top: -171px;
+    background-color:gray;
+
+}
+.col-3{
+    margin-left:485px  ;
+    margin-top:-164px;
+    background-color:hotpink;
+
+}
+.col-4{
+    margin-left:604px  ;
+    margin-top:-167px;
+    background-color: lawngreen;
+}
+.col-5{
+    margin-left:723px  ;
+    margin-top:-171px;
+    background-color:lightseagreen
+
+}
+.col-6{
+    margin-left:100px  ;
+    margin-top:10px;
+    background-color:steelblue
+
+}
+.col-7{
+    margin-left:210px  ;
+    margin-top:-160px;
+    background-color:mediumvioletred
+
+}
+.col-8{
+    margin-left:321px  ;
+    margin-top:-168px;
+    background-color:orangered
+
+}
+.col-9{
+    margin-left:436px  ;
+    margin-top:-169px;
+    background-color:plum
+}
+.col-10{
+    margin-left:546px  ;
+    margin-top:-169px;
+    background-color: seagreen;
+}
+.col-11{
+    margin-left:656px  ;
+    margin-top:-170px;
+    background-color: brown;
+}
+.col-12{
+    margin-left:768px  ;
+    margin-top:-170px;
+    background-color: crimson;
+}
+.col-13{
+    margin-left:19px  ;
+    margin-top:10px;
+    background-color: darkmagenta;
+
+}
+.col-14{
+    margin-left:127px  ;
+    margin-top:-157px;
+    background-color:darkorange;
+}
+.col-15{
+    margin-left:238px  ;
+    margin-top:-168px;
+    background-color:yellowgreen
+}
+.col-16{
+    margin-left:347px  ;
+    margin-top:-169px;
+    background-color:tomato
+
+}
+.col-17{
+    margin-left:456px  ;
+    margin-top:-169px;
+    background-color:violet;
+
+}
+.col-18{
+    margin-left:565px  ;
+    margin-top:-169px;
+    background-color: darkolivegreen;
+
+}
+.col-19{
+    margin-left:674px  ;
+    margin-top:-170px;
+    background-color: red;
+
+
+}
+.col-20{
+    margin-left:783px  ;
+    margin-top:-170px;
+    background-color: slateblue;
+
+}
+.col-21{
+    margin-left:893px  ;
+    margin-top:-171px;
+    background-color: springgreen;
+}
+
+
+
+
